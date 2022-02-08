@@ -1,0 +1,9 @@
+h1 {
+  margin-bottom: var(--big-space);
+}
+h2 {
+  margin-bottom: var(--medium-space);
+}
+h3 {
+  margin-bottom: var(--small-space);
+}

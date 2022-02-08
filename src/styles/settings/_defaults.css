@@ -2,6 +2,9 @@
   --base-font-family: 'Monteserrat', sans-serif;
   --base-font-size: 16 px;
   --base-line-height: 1.5 px;
-
   --base-border-radius: 16px;
+
+  --small-space: 8px;
+  --medium-space: 16px;
+  --big-space: 32px;
 }
