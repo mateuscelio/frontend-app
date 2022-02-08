@@ -4,5 +4,9 @@
   --blue-light: #24afff;
   --blue: #248bff;
   --red: #f26c6c;
+  --red-light: #ebacac;
   --green: #27b667;
+  --green-light: #75ca9b;
+  --black: rgb(31, 31, 31);
+  --white: rgb(255, 255, 255);
 }
