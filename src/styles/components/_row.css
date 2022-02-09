@@ -1,0 +1,10 @@
+.row {
+  display: flex;
+  justify-content: space-around;
+  width: 100%;
+  padding: var(--small-space);
+}
+
+.row__item {
+  padding: 10px;
+}

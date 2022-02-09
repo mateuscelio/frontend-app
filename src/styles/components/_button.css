@@ -1,0 +1,50 @@
+.btn {
+  background-color: transparent;
+  border-radius: var(--base-border-radius);
+  padding: 6px 32px;
+  cursor: pointer;
+  border: solid 2px var(--black);
+}
+
+.btn:disabled {
+  cursor: not-allowed;
+}
+
+.btn--primary {
+  border: solid 2px var(--yellow-light);
+}
+
+.btn--primary:hover {
+  background-color: var(--yellow-light);
+}
+
+.btn--primary:active {
+  background-color: var(--yellow);
+  border: solid 2px var(--yellow);
+}
+
+.btn--primary:disabled {
+  background-color: var(--yellow-light);
+  opacity: 0.5;
+}
+
+.btn--secondary {
+  border: solid 2px var(--blue-light);
+}
+
+.btn--secondary:hover {
+  color: var(--white);
+  background-color: var(--blue-light);
+}
+
+.btn--secondary:active {
+  color: var(--white);
+  background-color: var(--blue);
+  border: solid 2px var(--blue);
+}
+
+.btn--secondary:disabled {
+  color: var(--white);
+  background-color: var(--blue-light);
+  opacity: 0.5;
+}
