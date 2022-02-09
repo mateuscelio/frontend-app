@@ -1,0 +1,19 @@
+:root {
+  /*Base values*/
+  --base-font-family: 'Monteserrat', sans-serif;
+  --base-font-size: 16px;
+  --base-line-height: 1.5;
+  --base-border-radius: 16px;
+
+  /*Colors*/
+  --yellow-light: #ffe21d;
+  --yellow: #ffd21d;
+  --blue-light: #24afff;
+  --blue: #248bff;
+  --red: #f26c6c;
+  --red-light: #ebacac;
+  --green: #27b667;
+  --green-light: #75ca9b;
+  --black: rgb(31, 31, 31);
+  --white: rgb(255, 255, 255);
+}
