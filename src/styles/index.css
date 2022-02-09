@@ -1,8 +1,8 @@
-@import 'generic/_box-sizing.css';
-@import 'generic/_resets.css';
-
 @import 'settings/_colors.css';
 @import 'settings/_defaults.css';
+
+@import 'generic/_box-sizing.css';
+@import 'generic/_resets.css';
 
 @import 'elements/_body.css';
 @import 'elements/_section_headings.css';
@@ -11,3 +11,4 @@
 @import 'components/_page.css';
 @import 'components/_row.css';
 @import 'components/_input.css';
+@import 'components/_header.css';
