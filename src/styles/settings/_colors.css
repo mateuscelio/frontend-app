@@ -3,10 +3,13 @@
   --yellow: #ffd21d;
   --blue-light: #24afff;
   --blue: #248bff;
-  --red: #f26c6c;
-  --red-light: #ebacac;
-  --green: #27b667;
-  --green-light: #75ca9b;
+  --red-dark: #721c24;
+  --red-light: #ffe8e8;
+  --green-dark: #155724;
+  --green-light: rgb(212, 237, 218);
+  --mustard-dark: #856404;
+  --mustard-light: rgb(255, 243, 205);
   --black: rgb(31, 31, 31);
   --white: rgb(255, 255, 255);
+  --gray: rgb(224, 224, 224);
 }
