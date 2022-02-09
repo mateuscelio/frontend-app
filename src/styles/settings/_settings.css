@@ -5,6 +5,11 @@
   --base-line-height: 1.5;
   --base-border-radius: 50vh;
 
+  /*Spaces*/
+  --small-space: 8px;
+  --medium-space: 16px;
+  --big-space: 32px;
+
   /*Colors*/
   --yellow-light: #ffe21d;
   --yellow: #ffd21d;
