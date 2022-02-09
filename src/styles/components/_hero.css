@@ -1,0 +1,20 @@
+.hero {
+  color: var(--white);
+  min-height: 90vh;
+  padding: var(--very-big-space);
+  padding-top: 200px;
+
+  background-image: linear-gradient(
+      45deg,
+      rgba(71, 160, 233, 0.582),
+      rgba(185, 81, 245, 0.575)
+    ),
+    url('../../../assets/computer.jpg');
+  background-size: cover;
+}
+
+.hero__main-text {
+  font-size: 48px;
+  text-transform: uppercase;
+  word-spacing: 100vw;
+}

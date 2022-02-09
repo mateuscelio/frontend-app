@@ -1,7 +1,12 @@
 .header {
   display: flex;
   justify-content: space-between;
-  padding: 50px;
+  padding: var(--very-big-space);
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  color: var(--white);
 }
 
 .header__logo {
