@@ -24,27 +24,38 @@
         </ul>
       </nav>
       <div class="header__item">
-        <button class="btn btn--primary">APPLY NOW</button>
+        <a href="#contact-section"> 
+          <button  class="btn btn--primary">APPLY NOW</button>
+        </a>
       </div>
     </header>
     <main>
       <section class="hero">
         <h1 class="hero__main-text">Trainee Program 2022</h1>
       </div>
-      <section class="contact-section">
+      <section id="contact-section" class="contact-section">
         <h1>Contact Us</h1>
         <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Illo mollitia provident doloremque cum illum nam fugit voluptate soluta error eum. Ab incidunt nemo fugiat, ea tempora distinctio quis. Dolorum, magni.</p>
-        <form action="">
-          <div class="input__wrapper">
-            <input class="input" type="text" placeholder="How should we call you?">
+        <form class="contact-section__form">
+          <div class="contact-section__form__item">
+            <div class="input__wrapper">
+              <input class="input" type="text" placeholder="How should we call you?">
+            </div>
           </div>
-           <div class="input__wrapper">
-            <input class="input" type="text" placeholder="Where should we write our answer to?">
+          
+          <div class="contact-section__form__item">
+            <div class="input__wrapper">
+              <input class="input" type="text" placeholder="Where should we write our answer to?">
+            </div>
           </div>
-           <div class="input__wrapper">
-            <textarea class="input" cols="30" rows="10"></textarea>
+          <div class="contact-section__form__item">
+            <div class="input__wrapper">
+              <textarea class="input" cols="30" rows="10" placeholder="Talk a little about you"></textarea>
+            </div>
           </div>
-          <button class="btn btn--secondary">SEND</button>
+          <div class="contact-section__form__item">
+            <button class="btn btn--secondary">SEND</button>
+          </div>
         </form>
       </section>
     </main>
