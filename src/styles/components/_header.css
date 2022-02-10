@@ -9,6 +9,10 @@
   color: var(--white);
 }
 
+.header__item a {
+  color: inherit;
+}
+
 .header__logo {
   font-size: var(--medium-font-size);
   font-weight: bold;
