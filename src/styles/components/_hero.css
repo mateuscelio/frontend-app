@@ -1,6 +1,6 @@
 .hero {
   color: var(--white);
-  min-height: 90vh;
+  min-height: 100vh;
   padding: var(--very-big-space);
   padding-top: 200px;
 
