@@ -5,6 +5,7 @@
 
 @import 'elements/_body.css';
 @import 'elements/_section_headings.css';
+@import 'elements/_text-area.css';
 
 @import 'components/_button.css';
 @import 'components/_page.css';
