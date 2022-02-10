@@ -12,4 +12,6 @@
   --black: rgb(31, 31, 31);
   --white: rgb(255, 255, 255);
   --gray: rgb(235, 235, 235);
+  --gray-dark: rgb(175, 175, 175);
+  --gray-darker: rgb(121, 121, 121);
 }
