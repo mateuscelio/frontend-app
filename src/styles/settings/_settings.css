@@ -5,6 +5,9 @@
   --base-line-height: 1.5;
   --base-border-radius: 50vh;
 
+  /*Fonts size*/
+  --medium-font-size: 32px;
+
   /*Spaces*/
   --small-space: 8px;
   --medium-space: 16px;

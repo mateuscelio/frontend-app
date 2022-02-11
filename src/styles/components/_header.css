@@ -11,12 +11,12 @@
 
 .header__logo {
   font-size: var(--medium-font-size);
-  font-weight: bold;
+  font-weight: 700;
 }
 
 .header__nav {
   list-style: none;
-  padding: none;
+  padding: 0;
 }
 
 .header__nav__item {
