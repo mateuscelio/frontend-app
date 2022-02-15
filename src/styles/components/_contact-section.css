@@ -1,0 +1,29 @@
+.contact-section {
+  padding: var(--very-big-space);
+  min-height: 95vh;
+}
+
+.contact-section h1 {
+  text-transform: uppercase;
+  color: var(--blue-light);
+  font-size: var(--big-font-size);
+  margin-bottom: var(--small-space);
+}
+
+.contact-section p {
+  text-transform: uppercase;
+  margin-bottom: var(--big-space);
+}
+
+.contact-section__form {
+  display: flex;
+  flex-direction: column;
+  max-width: 600px;
+  margin: auto;
+}
+
+.contact-section__form__item {
+  padding: 16px 0;
+  display: flex;
+  justify-content: center;
+}

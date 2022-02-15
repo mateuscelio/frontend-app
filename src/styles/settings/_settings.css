@@ -1,12 +1,13 @@
 :root {
   /*Base values*/
   --base-font-family: 'Monteserrat', sans-serif;
-  --base-font-size: 16px;
   --base-line-height: 1.5;
-  --base-border-radius: 50vh;
+  --base-border-radius: 16px;
 
   /*Fonts size*/
+  --base-font-size: 16px;
   --medium-font-size: 32px;
+  --big-font-size: 32px;
 
   /*Spaces*/
   --small-space: 8px;
@@ -27,5 +28,5 @@
   --mustard-light: rgb(255, 243, 205);
   --black: rgb(31, 31, 31);
   --white: rgb(255, 255, 255);
-  --gray: rgb(224, 224, 224);
+  --gray: rgb(235, 235, 235);
 }
